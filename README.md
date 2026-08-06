@@ -5,6 +5,8 @@
   To-Do
     Fix bug where user types in a letter that has already 
       been guessed and is in the word which adds to 
-      wordFoundCount and may prematurely end the game
-    Add Banner or welcome graphic 
+      wordFoundCount and may prematurely end the game. 
+      
+    Add Banner or welcome graphic   
+    
     Expand word bank
